@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[trevorjames]]></title>
         <description><![CDATA[trevorjames]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trevorjames/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 19:48:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 20:00:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trevorjames/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Trevor Wolnisty</p>]]></description>
-            <link>undefined488f2352-e69d-4ac7-befd-b98743513580/index.html</link>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>Trevor Wolnisty</p></article>]]></description>
+            <link>https://thegrid.ai/trevorjames/488f2352-e69d-4ac7-befd-b98743513580/index.html</link>
             <guid isPermaLink="false">488f2352-e69d-4ac7-befd-b98743513580</guid>
-            <pubDate>Thu, 24 Mar 2016 19:48:12 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 20:00:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
