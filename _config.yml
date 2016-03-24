@@ -1,7 +1,7 @@
 name: trevorjames
 favicon: null
-layout_spectrum: 0.054344798903912306
-typography_spectrum: 0.7720361424144357
+layout_spectrum: 1
+typography_spectrum: 0.44354
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#575036'
-    - '#ccb296'
-    - '#827857'
-    - '#100f0a'
+    - '#ffffff'
+    - '#1c202b'
+    - '#748fbe'
+    - '#b8c2cc'
+    - '#c69b88'
   brandStrength: 0.7824036958627403
   lightness: 0.7835978679358959
   saturation: 0.24549377406947315
